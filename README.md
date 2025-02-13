@@ -5,7 +5,7 @@
 - Skru ut frontpanel, 4 skruer, øverst høyre er den korte skruen.
 - Varm opp til 230, hold varmeblokken med en skiftenøkkel på langsiden, unngå skade på temp sensor kabel.
 - Dyse bruker 7mm, anbefaler å bruke kort pipe istedet for verktøy som fulgte med.
-- Trekk ut bowden slangen.
+- Trekk ut bowden slangen. Hvis filament i slangen, eller ende er brent, kapp av til enden er ren.
 - Skru inn ny dyse til den har kontakt med dingseboms over varmeblokken, ikke hardt bare nok til at du kjenner at den har kontakt.
 - Skru dyse en halv omdreining tilbake.
 - Trykk bowden slangen tilbake, bruk litt kraft, bowden skal tette mellomrom mellom møtende deler.
