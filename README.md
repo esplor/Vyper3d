@@ -1,5 +1,7 @@
 # AnyCubic Vyper Samling
 
+## Tester github med SSH
+
 ### Bytte dyse
 
 - Skru ut frontpanel, 4 skruer, øverst høyre er den korte skruen.
